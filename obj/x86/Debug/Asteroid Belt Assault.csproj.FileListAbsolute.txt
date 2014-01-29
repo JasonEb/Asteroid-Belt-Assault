@@ -1,0 +1,133 @@
+C:\Users\JASONE\Documents\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JASONE\Documents\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\JASONE\Documents\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Textures\SpriteSheet.xnb
+C:\Users\JASONE\Documents\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\JASONE\Documents\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Asteroid Belt Assault.exe
+C:\Users\JASONE\Documents\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Asteroid Belt Assault.pdb
+C:\Users\JASONE\Documents\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\obj\x86\Debug\Asteroid Belt Assault.exe
+C:\Users\JASONE\Documents\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\obj\x86\Debug\Asteroid Belt Assault.pdb
+C:\Users\Public\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Public\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\obj\x86\Debug\Asteroid Belt Assault.exe
+C:\Users\Public\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\obj\x86\Debug\Asteroid Belt Assault.pdb
+C:\Users\Public\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Textures\SpriteSheet.xnb
+C:\Users\Public\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\Public\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Asteroid Belt Assault.exe
+C:\Users\Public\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Asteroid Belt Assault.pdb
+C:\Users\JASONE\Documents\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Explosion1.xnb
+C:\Users\JASONE\Documents\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Explosion2.xnb
+C:\Users\JASONE\Documents\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Explosion3.xnb
+C:\Users\JASONE\Documents\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Explosion4.xnb
+C:\Users\JASONE\Documents\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Shot1.xnb
+C:\Users\JASONE\Documents\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Shot2.xnb
+C:\Users\JASONE\Documents\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Fonts\Pericles14.xnb
+C:\Users\Public\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Explosion1.xnb
+C:\Users\Public\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Explosion2.xnb
+C:\Users\Public\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Explosion3.xnb
+C:\Users\Public\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Explosion4.xnb
+C:\Users\Public\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Shot1.xnb
+C:\Users\Public\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Shot2.xnb
+C:\Users\Public\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Fonts\Pericles14.xnb
+C:\Users\Public\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\ChuteDaisyBell.xnb
+C:\Users\Public\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\Cocoa.xnb
+C:\Users\Public\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\Cocoa.wma
+C:\Users\Public\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\Dedede.xnb
+C:\Users\Public\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\Dedede.wma
+C:\Users\Public\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\ChuteDaisyBell.wma
+C:\Users\Nezzed\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Textures\SpriteSheet.xnb
+C:\Users\Nezzed\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\Nezzed\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Explosion1.xnb
+C:\Users\Nezzed\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Explosion2.xnb
+C:\Users\Nezzed\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Explosion3.xnb
+C:\Users\Nezzed\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Explosion4.xnb
+C:\Users\Nezzed\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Shot1.xnb
+C:\Users\Nezzed\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Shot2.xnb
+C:\Users\Nezzed\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Fonts\Pericles14.xnb
+C:\Users\Nezzed\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\Cocoa.xnb
+C:\Users\Nezzed\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\Dedede.xnb
+C:\Users\Nezzed\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\AsteroidMusic.xnb
+C:\Users\Nezzed\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\ChuteDaisyBell.xnb
+C:\Users\Nezzed\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\Cocoa.wma
+C:\Users\Nezzed\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\Dedede.wma
+C:\Users\Nezzed\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\AsteroidMusic.wma
+C:\Users\Nezzed\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\ChuteDaisyBell.wma
+C:\Users\Nezzed\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Asteroid Belt Assault.exe
+C:\Users\Nezzed\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Asteroid Belt Assault.pdb
+C:\Users\Nezzed\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nezzed\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Nezzed\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\obj\x86\Debug\Asteroid Belt Assault.exe
+C:\Users\Nezzed\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\obj\x86\Debug\Asteroid Belt Assault.pdb
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Textures\SpriteSheet.xnb
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Explosion1.xnb
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Explosion2.xnb
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Explosion3.xnb
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Explosion4.xnb
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Shot1.xnb
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Shot2.xnb
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Fonts\Pericles14.xnb
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\Cocoa.xnb
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\Dedede.xnb
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\ChuteDaisyBell.xnb
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\Cocoa.wma
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\Dedede.wma
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\ChuteDaisyBell.wma
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Asteroid Belt Assault.exe
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Asteroid Belt Assault.pdb
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\obj\x86\Debug\Asteroid Belt Assault.exe
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\obj\x86\Debug\Asteroid Belt Assault.pdb
+C:\Users\Public\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\Dead.xnb
+C:\Users\Public\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\GameOver.xnb
+C:\Users\Public\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\Playing.xnb
+C:\Users\Public\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\Dead.wma
+C:\Users\Public\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\GameOver.wma
+C:\Users\Public\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\Playing.wma
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\Dead.xnb
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\GameOver.xnb
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\Playing.xnb
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\Dead.wma
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\GameOver.wma
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\Playing.wma
+C:\Users\Public\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\LeftSound.xnb
+C:\Users\Public\My Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\RightSound.xnb
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\LeftSound.xnb
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\RightSound.xnb
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Asteroid Belt Assault.exe.manifest
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Asteroid Belt Assault.application
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\obj\x86\Debug\Asteroid Belt Assault.exe.manifest
+C:\Users\Jason\Dropbox\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\obj\x86\Debug\Asteroid Belt Assault.application
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Textures\SpriteSheet.xnb
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Explosion1.xnb
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Explosion2.xnb
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Explosion3.xnb
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Explosion4.xnb
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Shot1.xnb
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Shot2.xnb
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\LeftSound.xnb
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\RightSound.xnb
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Fonts\Pericles14.xnb
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\Cocoa.xnb
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\Dedede.xnb
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\ChuteDaisyBell.xnb
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\Dead.xnb
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\GameOver.xnb
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\Playing.xnb
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\Cocoa.wma
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\Dedede.wma
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\ChuteDaisyBell.wma
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\Dead.wma
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\GameOver.wma
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Music\Playing.wma
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Asteroid Belt Assault.exe.manifest
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Asteroid Belt Assault.application
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Asteroid Belt Assault.exe
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Asteroid Belt Assault.pdb
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\obj\x86\Debug\Asteroid Belt Assault.exe.manifest
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\obj\x86\Debug\Asteroid Belt Assault.application
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\obj\x86\Debug\Asteroid Belt Assault.exe
+C:\Users\FAMILY2\SkyDrive\XNA Programming\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\obj\x86\Debug\Asteroid Belt Assault.pdb
